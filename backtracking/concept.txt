@@ -1,0 +1,22 @@
+Backtracking:
+
+1. Backtracking is an improvement of the brute force approach. It systematically searches for a solution to the problem
+among all available options. In backtracking we start with one possible option out of many available options and try to
+solve the problem if we are able to solve the problem with the selected move then will print the solution else will back
+track and select some other option and try to solve it.
+
+2. It's a form of recursion
+
+3. Backtracking can be thought as a selective tree/graph traversal method.
+
+4. Interesting fact about backtracking is that we back up only as far as needed to reach a previous decision point with
+an as-yet-unexplored alternative.
+
+Examples:
+1. Binary String: Generating Binary String
+2. Generating k-ary strings
+3. N-Queens Problem
+4. The knapsack problem
+5. Generalized strings
+6. Hamiltonian Cycles
+7. Graph Coloring Problem.

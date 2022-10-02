@@ -1,0 +1,8 @@
+Q1. Why Constant Time for Accessing Array Elements?
+A1. The memory allocation is calculated by using base pointer, index of element and size of element.
+    This involves multiplication and addition operation which takes constant time to execute. Hence element access inside
+    array takes constant time.
+
+Q2. To implement the cache which is faster either cache or linked list.
+A2. Cache
+
